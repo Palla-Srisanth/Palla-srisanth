@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Srisanth 👋
 
-<!--
-**Palla-Srisanth/Palla-srisanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) Student  
+💻 Passionate about Software Development & AI  
+🚀 Goal: Software Engineer at a top tech company  
+---
 
-Here are some ideas to get you started:
+## 🧠 Skills
+- Python
+- Java
+- Data Structures & Algorithms
+- Machine Learning (Beginner)
+- Git & GitHub
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Currently Learning
+- Advanced DSA
+- Full Stack Development
+- AI/ML Projects
+---
+
+## 📂 Projects I'm Building
+- Smart Prescription Analyzer  
+- Gesture-Controlled Puzzle Game  
+- More coming soon...
+---
+
+## 📫 Connect with me
+LinkedIn: https://www.linkedin.com/in/palla-srisanth-66a20a268/
+Email: (srisanthpalla@gmail.com)
